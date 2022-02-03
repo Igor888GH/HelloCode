@@ -1,0 +1,15 @@
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.exe
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.deps.json
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.runtimeconfig.json
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\bin\Debug\net6.0\ref\Example001_HelloConsol.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.pdb
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.csproj.AssemblyReference.cache
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.AssemblyInfoInputs.cache
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.AssemblyInfo.cs
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.csproj.CoreCompileInputs.cache
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\ref\Example001_HelloConsol.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.pdb
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.genruntimeconfig.cache
