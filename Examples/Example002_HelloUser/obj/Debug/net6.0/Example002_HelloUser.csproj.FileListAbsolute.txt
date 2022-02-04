@@ -1,0 +1,15 @@
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\bin\Debug\net6.0\ref\Example002_HelloUser.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+D:\УСПЕХ_БИЗНЕС_РАБОТА\GeekBrains\С#\Семинар 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
